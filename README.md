@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-VIMO
 - 👀 I’m interested in learning new tecnologies.
-- 🌱 I’m currently learning inrermediate Python.
+- 🌱 I’m currently learning Python, Javascript, HTML5, CSS.
 - 💞️ I am looking to collaborate on projects related to Web development, software development, automation, machine learning, AI, data science and data analysis for business.
 - 📫 how to reach me: Email: ovitemartinez@gmail.com   linkedin.com/in/ovitemartinez
 - 😄 Pronouns: Dev-VIMO
